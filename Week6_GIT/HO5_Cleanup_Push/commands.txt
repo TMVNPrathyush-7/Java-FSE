@@ -1,0 +1,7 @@
+Hands-on 5 - Cleanup & Push
+
+Commands Executed:
+git status
+git branch
+git pull origin main
+git push origin main
